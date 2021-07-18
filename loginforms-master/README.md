@@ -1,4 +1,4 @@
-A project to demonstrate usage of basic react.js hooks  
+A project to demonstrate usage of Registration and Login
 
 
 ### Starting with the project   
